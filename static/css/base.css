@@ -1,0 +1,21 @@
+.logo{
+    width: 100px;
+}
+
+body{
+    background: #f3f3f3;
+}
+
+.main{
+    background: #fff;
+    width: 730px;
+    /*居中*/
+    margin:0 auto;
+    /*清除浮动*/
+    overflow: hidden;
+}
+
+.page-title{
+    /*使文字居中*/
+    text-align: center;
+}
